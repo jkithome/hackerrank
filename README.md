@@ -1,3 +1,3 @@
 # hackerrank
 
-Solutions for Hackerrank exercises using different languages.
+Solutions for Hackerrank exercises using javascript and python languages.
